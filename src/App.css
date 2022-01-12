@@ -18,8 +18,13 @@ body {
   font-size: 16px;
 }
 
+.btn:hover {
+  background-color: #00687a;
+  transition: all .2s;
+}
+
 .container {
   display: block;
-  margin: auto;
+  margin: 300px auto;
   width: 700px;
 }
